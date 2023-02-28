@@ -1,0 +1,17 @@
+#layer1 {
+    background-color: blanchedalmond;
+    position: absolute;
+  }
+  
+  #layer2 {
+    position: absolute;
+    border-radius: 60% 50% 50% 60%;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  #layer3 {
+    position: absolute;
+    border-radius: 50%;
+    transform: rotate(90deg);
+    background-color: black;
+  }
